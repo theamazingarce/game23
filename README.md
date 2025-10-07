@@ -82,8 +82,7 @@ Update the OpenSSF Scorecard badge to point to your repository.
 **Edit the README:**
 
 ```markdown
-[![OpenSSF Scorecard](https://api.securityscorecards.dev/projects/github.com/your-username/your-repo-name/badge)](https://scorecard.dev/viewer/?uri=github.com/your-username/your-repo-name)
-```
+[![OpenSSF Scorecard] https://api.securityscorecards.dev/projects/github.com/theamazingarce/game23/badge ]
 
 Replace `your-username/your-repo-name` with your actual GitHub repository path.
 
